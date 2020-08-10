@@ -43,7 +43,6 @@ th,td {
 }
 th{
     color: white;
-    
 }
 img{
     width: 60%;    
@@ -74,7 +73,10 @@ img{
     th,td {
         text-align: center;
         font-size:large;
-      }
+    }
+    th{
+        color: white;
+    }
     .card1{
         border:2px solid #ddd;
         padding: 1%;
@@ -83,7 +85,7 @@ img{
         height: 30%;
         text-align: center;
         font-size: 25px;
-        background-color:aqua;
+        background-color: lightsalmon;
         border-radius: 5%;
     }
     .card2{
@@ -93,7 +95,7 @@ img{
         width: 60%;
         text-align: left;
         font-size: 25px;
-        background-color: skyblue;
+        background-color: rgb(30, 126, 43);
         border-radius: 5%;
     }
     img{
@@ -125,7 +127,10 @@ img{
     th,td {
         text-align: center;
         font-size:large;
-      }
+    }
+    th{
+        color: white;
+    }
     .card1{
         border:2px solid #ddd;
         padding: 1%;
@@ -134,7 +139,7 @@ img{
         height: 30%;
         text-align: center;
         font-size: 25px;
-        background-color:aqua;
+        background-color: lightsalmon;
         border-radius: 5%;
     }
     .card2{
@@ -144,7 +149,7 @@ img{
         width: 100%;
         text-align: left;
         font-size: 25px;
-        background-color: skyblue;
+        background-color: rgb(30, 126, 43);
         border-radius: 5%;
     }
     img{
